@@ -24,4 +24,4 @@
   <a href="https://twitter.com/_vetonn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/evertonsil/evertonsil/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
